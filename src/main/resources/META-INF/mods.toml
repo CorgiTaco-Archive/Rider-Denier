@@ -3,7 +3,7 @@ loaderVersion = "[33,)"
 license = "LGPLv3"
 issueTrackerURL = ""
 [[mods]]
-modId = "modid"
+modId = "riderdenier"
 version = "1.0"
 displayName = "Mod ID"
 displayURL = ""
@@ -11,9 +11,9 @@ logoFile = "icon.png"
 credits = ""
 authors = "Corgi Taco"
 description = '''
-Description
+A simple mod to blacklist what mobs can be ridden per dimension!
 '''
-[[dependencies.modid]]
+[[dependencies.riderdenier]]
 modId = "forge"
 mandatory = true
 versionRange = "[33.0.0,)"
