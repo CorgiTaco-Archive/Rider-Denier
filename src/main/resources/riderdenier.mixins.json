@@ -3,7 +3,7 @@
   "minVersion": "0.8",
   "package": "corgitaco.riderdenier.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "modid.refmap.json",
+  "refmap": "riderdenier.refmap.json",
   "mixins": [
     "MixinEntity",
     "MixinMinecraftServer"
